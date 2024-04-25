@@ -1,4 +1,4 @@
-# HuggingFace-text-classification
+# HuggingFace-URL-classification
 
 ### Description
 
