@@ -2,7 +2,7 @@
 
 ### Description
 
-**nlp_classification.ipynb**: Exploring ML models accuracy for text classification through systematic experiments with varying features and models (8 ML modes, HuggingFace Transformers). Achieved up to 95% accuracy, revealing key insights on optimal input-model combos
+**nlp_classification.ipynb**: Exploring Machine Learning (ML) models accuracy for text classification through systematic experiments with varying features (title, content, URL) and models (8 traditional ML models, HuggingFace Transformers). Achieved up to 95% accuracy, revealing key insights on optimal input-model combos
 
 **Deployment**: Deploy the Random Forest utilising FastAPI and Docker
 ### Getting Started
